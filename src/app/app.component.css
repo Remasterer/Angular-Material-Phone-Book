@@ -1,0 +1,17 @@
+
+th{
+  font-weight: bold;
+  color: black;
+  text-align: center !important;
+  padding: 0 !important;
+  font-size: 1.1rem;
+
+}
+th,td {
+
+  vertical-align: middle !important;
+  /*text-align: center !important;*/
+}
+td{
+  padding: 1rem !important;
+}
